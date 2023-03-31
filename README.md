@@ -1,1 +1,3 @@
-My First Readme Tips
+`My First Readme Tips
+I have been able to learn about git and gihub workflow starting with the git init,
+git status, git add, git commit, git push, git branch, git diff and git checkout
